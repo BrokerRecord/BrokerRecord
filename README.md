@@ -1,5 +1,5 @@
 
-<div align="center">
+
 
 # Hi, I'm Awa Mbaye 👋
 
@@ -15,7 +15,7 @@ My interests include **medical imaging, computer vision, data science, business 
 
 📍 Based in France | 💼 Open to opportunities in AI, Data Science, Python Development & R&D
 
-</div>
+
 
 ---
 
