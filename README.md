@@ -41,7 +41,7 @@ My interests include **medical imaging, computer vision, data science, business 
 <p>
   <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" title="Pandas" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/numpy/4DABCF" alt="NumPy" title="NumPy" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" title="Power BI" width="48" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" title="Microsoft Power BI" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" title="Jupyter Notebook" width="48" height="48" />
 </p>
 
